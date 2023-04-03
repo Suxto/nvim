@@ -67,6 +67,7 @@ return require('packer').startup(function(use)
         requires = { { 'nvim-lua/plenary.nvim' } }
     }
     use "BenGH28/neo-runner.nvim"
+    
     if packer_bootstrap then
         require('packer').sync()
     end
