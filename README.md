@@ -1,2 +1,2 @@
-# VsCode SUCKS!!!
+# VSCode SUCKS!!!
 ## Let`s go neovim
